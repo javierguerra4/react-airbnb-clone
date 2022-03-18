@@ -5,6 +5,7 @@ export default function Hero() {
   return (
     <div>
       <img src={Group} alt="Photo grid"></img>
+      <h1> Online Experiences</h1>
     </div>
   );
 }

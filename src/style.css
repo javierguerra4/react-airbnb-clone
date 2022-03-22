@@ -25,3 +25,10 @@ body {
   left: 50px;
   top: 42px;
 }
+
+/* Hero container styling below */
+.hero-image {
+  margin: auto;
+  display: block;
+  margin-top: 130px;
+}

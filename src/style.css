@@ -33,3 +33,10 @@ body {
   display: block;
   margin-top: 130px;
 }
+
+.hero-h1 {
+  font-weight: 600;
+  font-style: normal;
+  font-size: 40px;
+  margin-left: 40px;
+}

@@ -49,15 +49,12 @@ body {
   margin-top: -10px;
 }
 
-.katie-container {
-  display: flex;
-  flex-direction: row;
-}
-
 .katie--image {
   align-self: center;
   width: 176px;
   height: 235px;
   left: 37px;
   top: 521px;
+  margin-left: 40px;
+  margin-top: 50px;
 }

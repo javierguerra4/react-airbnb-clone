@@ -9,11 +9,13 @@ export default function Card() {
       <div className="rating">
         <img src={Star} alt="star-image" className="star--image"></img>
         <span>5.0</span>
-        <span>(6) •</span>
-        <span>USA</span>
+        <span className="grey">(6) •</span>
+        <span className="grey">USA</span>
       </div>
       <p className="katie-header">Life lessons with Katie Zaferes</p>
-      <p>From $136 / person</p>
+      <p>
+        <span className="bold">From $136</span> / person
+      </p>
     </div>
   );
 }

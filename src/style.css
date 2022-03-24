@@ -37,6 +37,21 @@ body {
   border-radius: 9px;
 }
 
+.grey {
+  color: #918e9b;
+}
+
+.bold {
+  font-weight: bold;
+}
+.rating {
+  display: flex;
+  align-items: center;
+}
+
+.star--image {
+  height: 14px;
+}
 .hero-h1 {
   font-weight: 600;
   font-style: normal;

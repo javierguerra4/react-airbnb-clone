@@ -7,10 +7,13 @@ export default function Card() {
     <div className="katie-container">
       <img src={Katie} alt="Katie-image" className="katie--image"></img>
       <div className="rating">
-        <image src={Star} alt="star-image" className="star--image"></image>
-        <p>5.0</p>
+        <img src={Star} alt="star-image" className="star--image"></img>
+        <span>5.0</span>
+        <span>(6) •</span>
+        <span>USA</span>
       </div>
-      <h1 className="katie-header">Life lessons with Katie Zaferes</h1>
+      <p className="katie-header">Life lessons with Katie Zaferes</p>
+      <p>From $136 / person</p>
     </div>
   );
 }

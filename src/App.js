@@ -9,7 +9,7 @@ export default function App() {
       <Nav />
       <Hero />
       <Card
-        img="./images/star.png"
+        // img="./images/star.png"
         rating="5.0"
         reviewCount="6"
         country="USA"
